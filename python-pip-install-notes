@@ -1,0 +1,14 @@
+# python 包、工具安装笔记
+
+## Anaconda
+
+官网下载： https://www.anaconda.com/download/#download
+
+统一使用 python3.6 版本
+
+
+## Miniconda3
+
+中科大镜像资源： http://mirrors.ustc.edu.cn/anaconda/miniconda/
+
+请下载最新版本
